@@ -3,7 +3,6 @@ const chat = document.getElementById('chat')
 const btn = document.getElementsByClassName('send-btn')
 const userName = document.getElementById('name-input')
 const form = document.getElementById('name-form')
-  console.log(userName, form)
 // Global variables, if you need any, declared here
 
 // Functions declared here
